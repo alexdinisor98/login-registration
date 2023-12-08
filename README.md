@@ -1,2 +1,2 @@
 # login-registration
-Application with Java Spring Boot: User Login, registration, Email Verification 
+Backend Application with Java Spring Boot: User Login, User Registration, Email Verification 
